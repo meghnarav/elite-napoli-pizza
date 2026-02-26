@@ -7,5 +7,8 @@ A landing page for a fictitious elite Napoli pizza masterclass. Created to pract
 - HTML/CSS
 - JavaScript
 
+## Deployment
+See the website here: https://meghnarav.github.io/elite-napoli-pizza/
+
 ## Future Scope
 - Integrate backend
