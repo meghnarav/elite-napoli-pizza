@@ -44,6 +44,7 @@ body {
 }
 
 .hero {
+  position: relative;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -85,11 +86,6 @@ body {
   opacity: 0.85;
 }
 
-#masters{
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-gap: 40px;
-}
 
 section {
   padding: 100px 60px;
@@ -142,4 +138,10 @@ section {
 
 .feature h3 {
   margin-bottom: 10px;
+}
+.masters-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-top: 60px;
 }
